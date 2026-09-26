@@ -46,6 +46,25 @@ Recommended GitHub pinned order: `python-foundations-lab`,
 11. `ml-production-platform` — Model serving, monitoring, and CI/CD
 12. `ai-powered-fullstack-saas` — AI and full-stack engineering capstone
 
+### Healthcare AI research & automation track
+
+I am also building a focused research track around healthcare interoperability,
+clinical ML evaluation, responsible AI, and reliable automation:
+
+1. `healthcare-fhir-platform`
+2. `clinical-omop-analytics`
+3. `clinical-time-series-lab`
+4. `clinical-nlp-lab`
+5. `medical-imaging-lab`
+6. `healthcare-ai-safety-evaluation`
+7. `clinical-rag-research`
+8. `healthcare-automation-control-plane`
+9. `workflow-automation-integrations`
+10. `healthcare-mlops-platform`
+
+All healthcare projects use synthetic or approved de-identified data and explicitly
+document research limitations; they are not clinical tools.
+
 ### Engineering principles
 
 - Make the simplest correct design explicit.
