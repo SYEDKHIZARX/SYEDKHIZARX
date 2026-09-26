@@ -23,9 +23,13 @@ I build software by moving from fundamentals to reliable products: clear domain 
 | Foundations | `python-foundations-lab` | Typed Python and testing |
 | Core CS | `data-structures-algorithms` | Complexity and problem solving |
 | Engineering | `software-engineering-patterns` | SOLID and dependency boundaries |
+| Data Systems | `database-systems-lab` | SQL, indexing, and transactions |
 | Backend | `backend-api-platform` | Validation and API design |
-| ML | `ml-foundations` | Evaluation discipline |
-| Applied AI | `document-intelligence-rag` | Retrieval and grounded generation |
+| Product | `fullstack-project-management` | React, TypeScript, and API integration |
+
+Recommended GitHub pinned order: `python-foundations-lab`,
+`data-structures-algorithms`, `software-engineering-patterns`,
+`database-systems-lab`, `backend-api-platform`, `fullstack-project-management`.
 
 ### Full progression
 
